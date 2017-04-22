@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ExchangeRateApplication</string>
+    <string name="action_reload">Reload</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="currency_array">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>RUB</item>
+        <item>BYN</item>
+        <item>PLN</item>
+        <item>GBP</item>
+        <item>CZK</item>
+        <item>CHF</item>
+    </string-array>
+
+</resources>
